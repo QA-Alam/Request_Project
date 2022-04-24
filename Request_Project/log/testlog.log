@@ -1,0 +1,12 @@
+2022-04-24 13:11:13,921 - Test Lead Alam -INFO - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-24 13:11:13,934 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-04-24 13:11:14,424 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-24 13:11:14,460 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-24 13:11:21,171 - Test Lead Alam -INFO - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-24 13:11:23,407 - Test Lead Alam -INFO - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-24 13:11:23,712 - Test Lead Alam -INFO - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-24 13:11:24,024 - Test Lead Alam -INFO - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-24 13:11:26,080 - Test Lead Alam -INFO - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-24 13:11:26,318 - Test Lead Alam -INFO - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-24 13:11:28,022 - Test Lead Alam -INFO - <<<<<<<<<< User able to enter the location  >>>>>>>>>
+2022-04-24 13:11:34,158 - Test Lead Alam -INFO - <<<<<<<<<< Ended Automation >>>>>>>>>
