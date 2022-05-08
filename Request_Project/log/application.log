@@ -10,3 +10,273 @@
 2022-04-24 13:11:26,318 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
 2022-04-24 13:11:28,022 [main] INFO Test Lead Alam - <<<<<<<<<< User able to enter the location  >>>>>>>>>
 2022-04-24 13:11:34,158 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-24 13:17:10,394 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-24 13:17:10,401 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-24 13:17:10,793 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-24 13:17:10,828 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-24 13:17:16,834 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-24 13:17:20,177 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-24 13:17:20,366 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-24 13:17:20,563 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-24 13:17:22,494 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-24 13:17:22,755 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-24 13:18:02,824 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-24 13:18:02,831 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-24 13:18:03,268 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-24 13:18:03,299 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-24 13:18:09,774 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-24 13:18:12,250 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-24 13:18:12,502 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-24 13:18:12,739 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-24 13:18:14,305 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-24 13:18:14,537 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-24 13:18:16,420 [main] INFO Test Lead Alam - <<<<<<<<<< User able to enter the location  >>>>>>>>>
+2022-04-24 13:18:21,965 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 12:46:17,192 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 12:46:17,223 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 12:46:18,923 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 12:46:18,968 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 12:46:30,620 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 12:46:33,671 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 12:46:34,102 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 12:46:34,458 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 12:46:36,157 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 12:46:36,502 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-26 12:46:39,188 [main] INFO Test Lead Alam - <<<<<<<<<< User able to enter the location  >>>>>>>>>
+2022-04-26 12:46:47,555 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 16:30:34,585 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 16:30:34,590 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 16:30:35,442 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 16:30:35,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 16:30:40,703 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 16:30:42,859 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 16:30:43,076 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 16:30:43,330 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 16:30:45,390 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 16:30:45,689 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-26 16:30:47,892 [main] INFO Test Lead Alam - <<<<<<<<<< User able to enter the location  >>>>>>>>>
+2022-04-26 16:30:52,899 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 16:34:11,566 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 16:34:11,573 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 16:34:11,986 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 16:34:12,026 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 16:34:17,540 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 16:34:19,459 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 16:34:19,760 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 16:34:20,003 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 16:34:21,603 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 16:34:21,866 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-26 16:34:23,793 [main] INFO Test Lead Alam - <<<<<<<<<< User able to enter the location  >>>>>>>>>
+2022-04-26 16:34:28,810 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 16:35:46,759 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 16:35:46,765 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 16:35:47,398 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 16:35:47,432 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 16:35:53,496 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 16:35:55,481 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 16:35:55,822 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 16:35:56,040 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 16:35:58,139 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 16:35:58,419 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-04-26 17:36:11,398 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:36:11,404 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:36:13,018 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:36:13,048 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:36:18,932 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:36:20,739 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:36:20,976 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:36:21,284 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:36:23,318 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:36:53,540 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:38:07,000 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:38:07,009 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:38:07,773 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:38:07,893 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:38:15,278 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:38:17,475 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:38:17,695 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:38:17,928 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:38:20,060 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:38:50,423 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:42:03,920 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:42:03,926 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:42:04,737 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:42:04,777 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:42:11,842 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:42:14,295 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:42:14,604 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:42:14,920 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:42:16,972 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:42:47,213 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:47:46,744 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:47:46,750 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:47:47,359 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:47:47,388 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:47:53,622 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:47:55,522 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:47:55,823 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:47:56,054 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:47:57,684 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:48:28,573 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:51:13,434 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:51:13,440 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:51:14,038 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:51:14,071 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:51:19,800 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:51:21,663 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:51:21,964 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:51:22,152 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:51:23,628 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:51:54,007 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:53:35,670 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:53:35,679 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:53:36,456 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:53:36,484 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:53:41,984 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:53:43,898 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:53:44,169 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:53:44,410 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:53:46,420 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:54:16,826 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:57:04,566 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:57:04,572 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:57:05,147 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:57:05,178 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:57:12,545 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:57:14,535 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:57:14,784 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:57:15,003 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:57:17,091 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:57:47,330 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 17:59:03,778 [main] INFO Test Lead Alam - <<<<<<<<<< Started Automation >>>>>>>>>
+2022-04-26 17:59:03,786 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 17:59:04,379 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 17:59:04,409 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 17:59:10,140 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 17:59:12,323 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 17:59:12,589 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 17:59:12,886 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 17:59:14,703 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 17:59:45,034 [main] INFO Test Lead Alam - <<<<<<<<<< Ended Automation >>>>>>>>>
+2022-04-26 18:05:39,647 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 18:05:40,287 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 18:05:40,319 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 18:05:45,668 [main] INFO Test Lead Alam - 
+2022-04-26 18:05:45,669 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-04-26 18:05:45,669 [main] INFO Test Lead Alam - 
+2022-04-26 18:05:45,967 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 18:05:47,722 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 18:05:47,956 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 18:05:48,185 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 18:05:50,354 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 18:06:22,224 [main] INFO Test Lead Alam - 
+2022-04-26 18:06:22,225 [main] INFO Test Lead Alam - ...........END AUTOMATION.............
+2022-04-26 18:06:22,226 [main] INFO Test Lead Alam - 
+2022-04-26 18:07:49,201 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 18:07:49,828 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 18:07:49,856 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 18:07:55,711 [main] INFO Test Lead Alam - 
+2022-04-26 18:07:55,711 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-04-26 18:07:55,712 [main] INFO Test Lead Alam - 
+2022-04-26 18:07:55,973 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 18:07:57,925 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 18:07:58,249 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 18:07:58,522 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 18:08:00,677 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 18:08:31,971 [main] INFO Test Lead Alam - 
+2022-04-26 18:08:31,972 [main] INFO Test Lead Alam - ...........END AUTOMATION.............
+2022-04-26 18:08:31,973 [main] INFO Test Lead Alam - 
+2022-04-26 18:09:36,138 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 18:09:36,717 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 18:09:36,743 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 18:09:41,908 [main] INFO Test Lead Alam - 
+2022-04-26 18:09:41,908 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-04-26 18:09:41,909 [main] INFO Test Lead Alam - 
+2022-04-26 18:09:42,230 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 18:09:44,012 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 18:09:44,276 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 18:09:44,588 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 18:09:46,650 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 18:10:18,371 [main] INFO Test Lead Alam - 
+2022-04-26 18:10:18,371 [main] INFO Test Lead Alam - ...........END AUTOMATION.............
+2022-04-26 18:10:18,373 [main] INFO Test Lead Alam - 
+2022-04-26 18:11:31,142 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-04-26 18:11:31,768 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-04-26 18:11:31,798 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-26 18:11:38,034 [main] INFO Test Lead Alam - 
+2022-04-26 18:11:38,034 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-04-26 18:11:38,034 [main] INFO Test Lead Alam - 
+2022-04-26 18:11:38,250 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-04-26 18:11:40,212 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-04-26 18:11:40,523 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-04-26 18:11:40,717 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-04-26 18:11:42,744 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-04-26 18:12:14,274 [main] INFO Test Lead Alam - 
+2022-04-26 18:12:14,276 [main] INFO Test Lead Alam - ...........END AUTOMATION.............
+2022-04-26 18:12:14,277 [main] INFO Test Lead Alam - 
+2022-05-08 11:43:29,305 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-05-08 11:43:35,037 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 11:43:35,102 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 11:43:44,525 [main] INFO Test Lead Alam - 
+2022-05-08 11:43:44,526 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-05-08 11:43:44,527 [main] INFO Test Lead Alam - 
+2022-05-08 11:43:44,807 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-05-08 11:43:47,671 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-05-08 11:43:48,199 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-05-08 11:43:48,693 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-05-08 11:43:51,438 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-05-08 11:54:41,855 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-05-08 11:54:42,391 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 11:54:42,423 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 11:54:48,567 [main] INFO Test Lead Alam - 
+2022-05-08 11:54:48,567 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-05-08 11:54:48,568 [main] INFO Test Lead Alam - 
+2022-05-08 11:54:48,870 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-05-08 11:54:50,964 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-05-08 11:54:51,230 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-05-08 11:54:51,444 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-05-08 11:54:54,727 [main] INFO Test Lead Alam - 
+2022-05-08 11:54:54,728 [main] INFO Test Lead Alam - ...........END AUTOMATION.............
+2022-05-08 11:54:54,729 [main] INFO Test Lead Alam - 
+2022-05-08 11:56:28,724 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-05-08 11:56:29,630 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 11:56:29,666 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 11:56:35,711 [main] INFO Test Lead Alam - 
+2022-05-08 11:56:35,712 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-05-08 11:56:35,713 [main] INFO Test Lead Alam - 
+2022-05-08 11:56:36,264 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-05-08 11:56:38,288 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-05-08 11:56:38,557 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-05-08 11:56:38,772 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-05-08 11:56:40,809 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-05-08 11:56:41,291 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-05-08 12:07:54,640 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-05-08 12:07:55,335 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 12:07:55,371 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 12:08:01,651 [main] INFO Test Lead Alam - 
+2022-05-08 12:08:01,653 [main] INFO Test Lead Alam - ...........START AUTOMATION.............
+2022-05-08 12:08:01,654 [main] INFO Test Lead Alam - 
+2022-05-08 12:08:01,883 [main] INFO Test Lead Alam - <<<<<<<<<< User click on sign button  >>>>>>>>>
+2022-05-08 12:08:04,629 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the user name  >>>>>>>>>
+2022-05-08 12:08:04,830 [main] INFO Test Lead Alam - <<<<<<<<<< User enter the password >>>>>>>>>
+2022-05-08 12:08:05,087 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click sing in button >>>>>>>>>
+2022-05-08 12:08:07,111 [main] INFO Test Lead Alam - <<<<<<<<<< User able to mouse hover on for sale button >>>>>>>>>
+2022-05-08 12:08:07,320 [main] INFO Test Lead Alam - <<<<<<<<<< User able to click on uk properties for sale button  >>>>>>>>>
+2022-05-08 12:09:13,065 [main] INFO Test Lead Alam - 
+2022-05-08 12:09:13,066 [main] INFO Test Lead Alam - ...........END AUTOMATION.............
+2022-05-08 12:09:13,068 [main] INFO Test Lead Alam - 
+2022-05-08 12:52:53,959 [main] INFO Test Lead Alam - ******** I am a chrome browser*********
+2022-05-08 12:54:34,080 [TestNG-tests-2] INFO Test Lead Alam - ******** Test Execute on Edge Browser  *********
+2022-05-08 12:54:34,080 [TestNG-tests-1] INFO Test Lead Alam - ******** Test Execute on Chrome Browser  *********
+2022-05-08 12:54:34,080 [TestNG-tests-3] INFO Test Lead Alam - ******** Test Execute on Safari Browser  *********
+2022-05-08 12:54:35,644 [TestNG-tests-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 12:54:35,670 [TestNG-tests-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 13:05:03,184 [main] INFO Test Lead Alam - ******** Test Execute on Chrome Browser  *********
+2022-05-08 13:05:03,515 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 13:05:03,544 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 13:05:06,147 [main] INFO Test Lead Alam - ******** Test Execute on Edge Browser  *********
+2022-05-08 13:05:06,184 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 13:05:06,200 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-05-08 13:05:09,486 [main] INFO Test Lead Alam - ******** Test Execute on Safari Browser  *********
+2022-05-08 13:05:09,537 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+2022-05-08 13:05:09,571 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe

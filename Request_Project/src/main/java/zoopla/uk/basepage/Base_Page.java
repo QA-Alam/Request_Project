@@ -33,12 +33,10 @@ public class Base_Page {
 					System.getProperty("user.dir") + "/src/main/java/zoopla/uk/configfile/Config.properties");
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
-			System.out.println(e.getMessage());
+			logger.info(e.getMessage());
 		} catch (IOException e) {
-			System.out.println(e.getMessage());
+			logger.info(e.getMessage());
 
-		} finally { // Must executed
-			System.out.println("The finally statement is executed file not found");
 		}
 	}
 
@@ -66,6 +64,8 @@ public class Base_Page {
 			options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200",
 					"--ignore-certificate-errors", "--silent");
 			driver = new ChromeDriver(options);
+			
+			
 		} else if (browserName.equals("ie")) {
 			logger.info("******** I am a ie browser*********");
 			System.setProperty("webdriver.ie.driver", prop.getProperty("mac"));

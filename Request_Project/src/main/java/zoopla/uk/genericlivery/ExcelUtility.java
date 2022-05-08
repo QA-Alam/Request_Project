@@ -1,5 +1,5 @@
 package zoopla.uk.genericlivery;
 
-public class ExcelUtility {
 
+public class ExcelUtility {
 }

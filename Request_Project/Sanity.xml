@@ -1,5 +1,8 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="Test">
+<listeners>
+		<listener class-name="zoopla.uk.listiener.Reporting" />
+</listeners> 	
    <test name="zoopla test" >
       <classes>
          <class name="zoopla.uk.runnertest.MyRunner"/>
