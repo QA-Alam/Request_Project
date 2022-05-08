@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="SafariTest(failed)">
+    <parameter name="browser" value="Safari"/>
+    <classes>
+      <class name="com.usa.crossbrowser.crossBrowserTesting">
+        <methods>
+          <include name="setup"/>
+          <include name="afterTest"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.usa.crossbrowser.crossBrowserTesting -->
+    </classes>
+  </test> <!-- SafariTest(failed) -->
+  <test thread-count="3" parallel="tests" name="EdgeTest(failed)">
+    <parameter name="browser" value="Edge"/>
+    <classes>
+      <class name="com.usa.crossbrowser.crossBrowserTesting">
+        <methods>
+          <include name="setup"/>
+          <include name="afterTest"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.usa.crossbrowser.crossBrowserTesting -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
