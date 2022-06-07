@@ -19,21 +19,19 @@ public class ReadExcel {
 	// How to pass the data from excel to web-site
 	// Ans: Help of Apache POI
 
-	public static void main(String[] args) throws Throwable {
+	
+	// This method definition for interview 
+	public static void main(String[] args) throws Throwable {	
+	     	readExcelData(0) ;
+	     	readExcelData(1) ;
 		
-		readExcelData(0) ;
-		readExcelData(1) ;
-		
-		
-		// FileInputStream (it's a java class) to identify the location of the file
-		// FileOutputStream (it's a java class) to write the data
+		// FileInputStream (it's a java class) to identify the location of the file also another name is serializations 
+		// FileOutputStream (it's a java class) to write the data  also another name call  Deserialization 
             FileInputStream data = new FileInputStream(file);
-		
 		
 		// I have to use XSSFWorkbook class from ApachePOI to create the object and pass  the parameter
 		// FileInputStream object
 		 XSSFWorkbook workbook = new XSSFWorkbook(data);
-		
 	
 		// I have to use XSSFSheet object = WorkBook object to call the getSheet method
 		// and passing the sheet name inside the parameter - it takes control of all the  sheet data
@@ -43,11 +41,10 @@ public class ReadExcel {
 		// <Row> (coming from Apache POI)
 
 		// I go through the iterator creating object to go through all the sheet value and
-		// ignore the header using next method
+		// skip the header using next method
 		Iterator<Row> rowIterator = sheet.iterator();
 		rowIterator.next();
-		
-		
+			
 		// Now I have to create a Arraylist of object to take control of all the data
 		ArrayList<String> list = new ArrayList<String>();
 
@@ -64,6 +61,54 @@ public class ReadExcel {
 	}
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	// This method for utility class bcz of reusable 
 	public static  ArrayList<String> readExcelData(int colNo) throws Throwable {
 		// FileInputStream (it's a java class) to identify the location of the file
 		// FileOutputStream (it's a java class) to write the data

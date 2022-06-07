@@ -12,7 +12,7 @@ import zoopla.uk.genericlivery.ReadExcel;
 
 public class PassTheDataFromExcelToWebsite extends Base_Page {
 
-	public static void main(String[] args) throws Throwable {
+	public static void main(String[] args) throws Throwable  {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();

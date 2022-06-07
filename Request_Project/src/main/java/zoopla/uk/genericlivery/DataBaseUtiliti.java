@@ -49,19 +49,21 @@ public class DataBaseUtiliti {
 	}
 
 	public static void main(String[] args) {
-		String employees = "select * from employees";
-		String salary = "select salary from employees";
-		getDataTableColumn(employees, "first_name");
-		getDataTableColumn(salary, "salary");
-	  // getDataTableColumn(Queries, "max(salary)");
+		
+		getDataTableColumn("", "first_name");
+		
+	//	String employees = "select * from employees";
+	//String salary = "select salary from employees";
+	//	getDataTableColumn(employees, "first_name");
+	//	getDataTableColumn(salary, "salary");
+	// getDataTableColumn(Queries, "max(salary)");
 		
 		ResultSet rs = null;  // ResultSet is a interface 
 		Connection connection = null; // Connection is a interface 
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");   // Location of the JDBC or Path of JDBC
 			connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521/orcl", "hr", "hr");
-			                                                                            // JDBC URL, Host Number, Database Name, UserName & Password
-			
+			                                                                            // JDBC URL, Host Number, Database Name, UserName & Password		
 			// Statement is an interface 
 			Statement stmt = connection.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_READ_ONLY);
 			rs = stmt.executeQuery("select * from employees");
