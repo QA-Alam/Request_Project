@@ -11,6 +11,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 import java.awt.event.KeyEvent;
 
 public class FileUpload_Robo {
@@ -18,16 +21,16 @@ public class FileUpload_Robo {
 	@Test
 	public void UploadSendkeys() throws InterruptedException {
 		String baseUrl = "http://demo.guru99.com/test/upload/";
-		String exePath = "./Driver/chromedriver.exe";
-		System.setProperty("webdriver.chrome.driver", exePath);
+		 WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS); // for page load
 		driver.get(baseUrl);
 
 		WebElement uploadElement = driver.findElement(By.id("uploadfile_0"));
+		uploadElement.click();
 		// enter the file path onto the file-selection input field
-		uploadElement.sendKeys("/Users/mohammedalam/WebserviceAPI+Test+cases.xlsx");
+		uploadElement.sendKeys("C:\\Users\\User\\Desktop\\TestLead Respon\\Test Lead");
 		// check the "I accept the terms of service" check box
 		driver.findElement(By.id("terms")).click();
 		// click the "UploadFile" button

@@ -7,6 +7,8 @@ import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class StaleelementreferenceexceptionTest {
 // What is the StaleElementReferenceException & how you can resolved?
 
@@ -37,10 +39,9 @@ public class StaleelementreferenceexceptionTest {
 	// Wait for the element till it gets available
 	// wait.until(ExpectedConditions.presenceOfElementLocated(By.id("table")));
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 
-		String exePath = "/Applications/chromedriver";
-		System.setProperty("webdriver.chrome.driver", exePath);
+		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.zoopla.co.uk/signin/?page_after_login=%2F&return_url=%2F");
 		driver.manage().window().maximize();
@@ -49,23 +50,25 @@ public class StaleelementreferenceexceptionTest {
 		// trying to find text box element & enter user name
 		WebElement userName = driver.findElement(By.xpath("//*[@id='input-email-address']"));
 		userName.sendKeys("alammohammed79@gmail.com");
-
+        Thread.sleep(5000);
 		// trying to find text box element & enter password
 		WebElement passWord = driver.findElement(By.xpath("//*[@id='input-password']"));
 		passWord.sendKeys("SAYEDawan2008@");
 
 		// trying to page get refresh
 		driver.navigate().refresh();
-		try {
+		
+		//userName.sendKeys("alammohammed79@gmail.com");
+	try {
 			// trying to find text box element & enter user name & you got
 			// StaleElementReferenceException problem
 			userName.sendKeys("alammohammed79@gmail.com");
-
+       
 		} catch (StaleElementReferenceException e) {
 			// Help with try catch block we can resolved the issue
 			userName = driver.findElement(By.xpath("//*[@id='input-email-address']"));
 			userName.sendKeys("alammohammed79@gmail.com");
 
-		}
+		}  
 	}
 }

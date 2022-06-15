@@ -13,19 +13,14 @@ public class Encoded_Decoded {
 	//@Test
 	//public void encodedPassword() {
 	public static void main(String[] args) {
-		
-
 		Encoder encoder = Base64.getEncoder();
-		String originalString = password;
+	    String originalString =  password;
 		String encodedString = encoder.encodeToString(originalString.getBytes());		
 		System.out.println("This is my encoded password : "+ encodedString);
-		
-		
 		
 		Decoder decoder = Base64.getDecoder();
 		byte[] bytes = decoder.decode(encodedString);		
 		System.out.println("This my website password : "+ new String (bytes));		
-		
 	}
 	
 	@Test

@@ -9,17 +9,17 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class BrokenLinks {
 
+	// How to find-out the broken link in web-page ?
 	public static void main(String[] args) {
-		int a = 100;
-		int b = 6;
-		System.out.println(a/b);
-		
-		
-		
-		String exePath = "/Applications/chromedriver";
-		System.setProperty("webdriver.chrome.driver", exePath);
+		//int a = 100;
+		//int b = 6;
+		//System.out.println(a / b);
+
+		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://www.google.co.in/");
@@ -33,6 +33,7 @@ public class BrokenLinks {
 			verifyLinkActive(url);
 		}
 	}
+
 	public static void verifyLinkActive(String linkUrl) {
 		try {
 			URL url = new URL(linkUrl);
@@ -44,7 +45,7 @@ public class BrokenLinks {
 			}
 			if (httpURLConnect.getResponseCode() == HttpURLConnection.HTTP_NOT_FOUND) {
 				System.out.println(linkUrl + " - " + httpURLConnect.getResponseMessage() + " - "
-						+ HttpURLConnection.HTTP_NOT_FOUND);				
+						+ HttpURLConnection.HTTP_NOT_FOUND);
 			}
 		} catch (Exception e) {
 		}

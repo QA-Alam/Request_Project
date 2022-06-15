@@ -19,7 +19,7 @@ public class ExceptionHandlingClass {
 	// Or any code error we are getting before execution that is call check time
 	// exception
 
-	public static ArrayList<String> readExcelData(int colNo)  {
+	public static ArrayList<String> readExcelData(int colNo) {
 		FileInputStream data = null;
 		try {
 			data = new FileInputStream("");
@@ -44,24 +44,22 @@ public class ExceptionHandlingClass {
 		System.out.println(list);
 		return list;
 	}
-	
-	public static void maine(String[] args){
-		readExcelData(0) ;
+
+	public static void maine(String[] args) {
+		readExcelData(0);
 	}
-	
 
 	// After execution if we can see any error that means this is a un-check
 	// exception
 	public static void mains(String[] args) {
-		
-		
+
 		String name = " ";
 		String names = null;
 		System.out.println(names);
 
 	}
 
-	//@Test
+	// @Test
 	public void indexOutOFBoundaryExc() {
 		ArrayList<String> myList = new ArrayList<String>();
 		myList.add("Dogs");
@@ -69,7 +67,8 @@ public class ExceptionHandlingClass {
 		myList.add("cute.");
 		System.out.println(myList.get(3));
 	}
- @Test
+
+	@Test
 	public static void ArithmeticExceptionTest() {
 		try {
 			int a = 0, b = 10;
@@ -80,31 +79,42 @@ public class ExceptionHandlingClass {
 			e.getMessage();
 		}
 	}
- 
- 
- public void userDefineException() {
-	        try {
-	            // Throw an object of user defined exception
-	            throw new MyException("GeeksGeeks");
-	        }
-	        catch (MyException ex) {
-	            System.out.println("Caught");
-	 
-	            // Print the message from MyException object
-	            System.out.println(ex.getMessage());
-	        }
 
- }
- 
- public static void main(String args[]){
-	try{
-		System.out.println("Starting of try block");
-		// I'm throwing the custom exception using throw
-		throw new MyException("This is My error Message");
+	public void userDefineException() {
+		try {
+			// Throw an object of user defined exception
+			throw new MyException("GeeksGeeks");
+		} catch (MyException ex) {
+			System.out.println("Caught");
+
+			// Print the message from MyException object
+			System.out.println(ex.getMessage());
+		}
+
 	}
-	catch(MyException exp){
-		System.out.println("Catch Block") ;
-		System.out.println(exp) ;
+
+	public static void mainss(String args[]) {
+		try {
+			System.out.println("Starting of try block");
+			// I'm throwing the custom exception using throw
+			throw new MyException("This is My error Message");
+		} catch (MyException exp) {
+			System.out.println("Catch Block");
+			System.out.println(exp);
+		}
 	}
-  }
+
+	public static void main(String[] args) {
+		int age = 16;
+		try {
+			if (age < 18) {
+				throw new ArithmeticException("Not Eligible for voting");
+			} else {
+				System.out.println("Eligible for voting");
+			}
+		} catch (Exception e) {
+			//e.getMessage();
+			System.out.println(e.getMessage());
+		}
+	}
 }

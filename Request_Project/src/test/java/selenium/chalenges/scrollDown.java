@@ -7,26 +7,28 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class scrollDown {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 
-		System.setProperty("webdriver.chrome.driver", "/Applications/chromedriver");
+		WebDriverManager.chromedriver().setup();
 		WebDriver d = new ChromeDriver();
 		d.get("http://demo.guru99.com/test/guru99home/");
 		d.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); // for Implicit wait
 		d.manage().window().maximize();
 
 		// to perform Scroll on application using Selenium
-		
+
 		// JavascriptExecutor js = (JavascriptExecutor) d;
 		// js.executeScript("window.scrollBy(0,1000)");
-		
-		
+
 		// js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
 
 		// Locate the desired WebElement
-		// WebElement element = driver.findElement(By.linkText("All Browsers and Devices"));
+		// WebElement element = driver.findElement(By.linkText("All Browsers and
+		// Devices"));
 		// js.executeScript("arguments[0].scrollIntoView();", element);
 
 		// object of Actions class to scroll up and down

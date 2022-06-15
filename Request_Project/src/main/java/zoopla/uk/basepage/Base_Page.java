@@ -38,6 +38,10 @@ public class Base_Page {
 			logger.info(e.getMessage());
 
 		}
+		
+		finally {
+			System.out.println("iugreagyewr8t");
+		}
 	}
 
 	public static void initialization() { // setUP();
