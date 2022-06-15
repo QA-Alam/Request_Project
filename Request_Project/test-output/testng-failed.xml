@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="zoopla.uk.hookstest.ExceptionHandlingClass">
+      <class name="selenium.chalenges.FileUpload_Robo">
         <methods>
-          <include name="ArithmeticExceptionTest"/>
+          <include name="UploadSendkeys"/>
         </methods>
-      </class> <!-- zoopla.uk.hookstest.ExceptionHandlingClass -->
+      </class> <!-- selenium.chalenges.FileUpload_Robo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
